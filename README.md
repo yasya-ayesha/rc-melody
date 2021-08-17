@@ -1,2 +1,3 @@
 # rc-melody
-made at glo academy intensive
+## made by Yaroslava Smielova
+at glo academy intensive
